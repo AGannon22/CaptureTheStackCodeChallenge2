@@ -1,5 +1,5 @@
 import requests
-#I want the FIRST NAME of the woman who helped create the potion with an ID of f45278ef-1338-4ff0-b22a-e9813f33b64f
+#I want the FIRST NAME of the woman who helped invent the potion with an ID of f45278ef-1338-4ff0-b22a-e9813f33b64f
 #API DOCS
 #https://docs.potterdb.com/apis/rest
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
