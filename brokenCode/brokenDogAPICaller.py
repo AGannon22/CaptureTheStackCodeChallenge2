@@ -2,6 +2,7 @@ import requests
 #API DOCS YOU SHOULD PROBABLY READ:
 #https://breedhealthscore.com/developers/
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#I want the SLUG of the dog with the best health score
 def getSpecificDog(slug):
     url = "" + slug + ".json"
     try:
